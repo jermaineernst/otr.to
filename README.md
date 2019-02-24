@@ -1,7 +1,8 @@
 # otr.to
-Open source p2p otr encrypted chat and self-destructing messages. <a href="https://otr.to">OTR.TO</a>
-<br>Use:<br>
-<a href="https://github.com/peers/peerjs" rel="nofollow">PeerJS: Simple peer-to-peer with WebRTC</a><br>
-and<br>
-<a href="https://github.com/arlolra/otr" rel=nofollow">Off-the-Record Messaging Protocol implemented in JavaScript</a>.
-<br>For self-destructing messages: <a href="https://code.google.com/p/crypto-js/" rel="nofollow">Crypto-js</a>.
+otr.to is a browser-based messaging application that offers secure communication by making use of the "Off-the-Record" (OTR) Messaging protocol in a peer-to-peer connection between both users.
+In addition, it is also possible to create a self-destructive messages if the recipient is not able to chat at the moment.
+
+## Projects we use
+- [PeerJs](https://github.com/peers/peerjs)
+- [OTR](https://github.com/arlolra/otr)
+- [Crypto JS](https://code.google.com/p/crypto-js/)
